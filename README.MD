@@ -40,42 +40,20 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto principais comandos do NodeJS             |
-| conteúdo | Comporte-se como um escritor de artigos tech front-end
-e escreva o Artigo atendendo as regras abaixo
-
-{REGRAS}
-
-> No máximo 5 linhas por blocos de explicação.
-> Explique de maneira informal para um dev júnior que acabou de entrar na área.
-> Os blocos que serão criados abaixo:
-- O que é o nodejs
-- O que são comandos do nodejs
-- Cite exemplos dos principais comandos do nodejs
-- Faça um call to action para as minhas redes sociais
-- Coloque 3 hashtags que façam sentido
- |
+| conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva o Artigo atendendo as regras abaixo |
+| regras | No máximo 5 linhas por blocos de explicação, Explique de maneira informal para um dev júnior que acabou de entrar na área, Os blocos que serão criados abaixo: O que é o nodejs, O que são comandos do nodejs, Cite exemplos dos principais comandos do nodejs, Faça um call to action para as minhas redes sociais, Coloque 3 hashtags que façam sentido |
 
 
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
-
-
+• Yellow Cyberpunk Musican
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens do acervo público geradas via Lexica.art
-
-## 📚 Materiais
-
-- prompts utilizados
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
 
 ## 👨‍💻 Expert
 
@@ -86,7 +64,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspEverton Zanini<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
