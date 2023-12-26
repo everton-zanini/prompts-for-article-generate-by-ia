@@ -62,16 +62,15 @@ Lexica.art：
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/107217906?s=400&u=678b879732323ca549a102dca3cc7bacc3d23059&v=4"
     />
     <p>&nbsp&nbsp&nbspEverton Zanini<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/everton-zanini">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/everton-zanini-8bb43917a/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/dev_zanini/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
